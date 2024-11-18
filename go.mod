@@ -20,7 +20,6 @@ require (
 	github.com/gin-contrib/timeout v0.0.3
 	github.com/gin-gonic/gin v1.9.0
 	github.com/google/uuid v1.6.0
-	github.com/marcboeker/go-duckdb v1.8.2
 	github.com/minio/minio-go/v7 v7.0.34
 	github.com/nats-io/nats.go v1.15.0
 	github.com/rs/zerolog v1.26.1
@@ -46,7 +45,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	cloud.google.com/go/iam v1.1.6 // indirect
 	github.com/ClickHouse/clickhouse-go v1.5.4 // indirect
-	github.com/alifiroozi80/duckdb v0.0.0-20241101181628-8a1b3866401c // indirect
+	github.com/alifiroozi80/duckdb v0.0.0-20241118084252-2daeeba6f000 // indirect
 	github.com/apache/arrow/go/v14 v14.0.2 // indirect
 	github.com/apache/arrow/go/v17 v17.0.0 // indirect
 	github.com/aws/aws-lambda-go v1.34.1 // indirect
@@ -63,7 +62,6 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.14.0 // indirect
 	github.com/aws/smithy-go v1.11.0 // indirect
 	github.com/bytedance/sonic v1.8.8 // indirect
-	github.com/c0deltin/duckdb-driver v0.1.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect
@@ -108,6 +106,7 @@ require (
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/lib/pq v1.10.4 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
+	github.com/marcboeker/go-duckdb v1.8.2 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect

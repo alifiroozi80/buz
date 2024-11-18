@@ -67,8 +67,8 @@ github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030I
 github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0cBrbBpGY/8hQs=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
-github.com/alifiroozi80/duckdb v0.0.0-20241101181628-8a1b3866401c h1:wZxp/2KDAmvg5AqCRBZJLAjxNPNnZHDFElo808jpuKI=
-github.com/alifiroozi80/duckdb v0.0.0-20241101181628-8a1b3866401c/go.mod h1:fdZNpDXRbeNkjI6w6+RMHED2qNJP/V7x/RNbGG0p7W8=
+github.com/alifiroozi80/duckdb v0.0.0-20241118084252-2daeeba6f000 h1:SdJcH2KosEFMUZL+zRD2FtKvBmc6gT+XjEXEUcunwsA=
+github.com/alifiroozi80/duckdb v0.0.0-20241118084252-2daeeba6f000/go.mod h1:fdZNpDXRbeNkjI6w6+RMHED2qNJP/V7x/RNbGG0p7W8=
 github.com/apache/arrow/go/v14 v14.0.2 h1:N8OkaJEOfI3mEZt07BIkvo4sC6XDbL+48MBPWO5IONw=
 github.com/apache/arrow/go/v14 v14.0.2/go.mod h1:u3fgh3EdgN/YQ8cVQRguVW3R+seMybFg8QBQ5LU+eBY=
 github.com/apache/arrow/go/v17 v17.0.0 h1:RRR2bdqKcdbss9Gxy2NS/hK8i4LDMh23L6BbkN5+F54=
@@ -126,8 +126,6 @@ github.com/bkaradzic/go-lz4 v1.0.0/go.mod h1:0YdlkowM3VswSROI7qDxhRvJ3sLhlFrRRwj
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
 github.com/bytedance/sonic v1.8.8 h1:Kj4AYbZSeENfyXicsYppYKO0K2YWab+i2UTSY7Ukz9Q=
 github.com/bytedance/sonic v1.8.8/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZXU064P/U=
-github.com/c0deltin/duckdb-driver v0.1.0 h1:g/RAwwNDFd2HmrnqF0oPE0aY7W6F6uFJbf1+zs285eM=
-github.com/c0deltin/duckdb-driver v0.1.0/go.mod h1:wkHe/zl2ERZDFN/G+ZGVe9Ip+QWPwbsI4dXrRixBRc4=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash v1.1.0 h1:a6HrQnmkObjyL+Gs60czilIUGqrzKutQD6XZog3p+ko=
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=

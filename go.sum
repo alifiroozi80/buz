@@ -67,8 +67,8 @@ github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030I
 github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0cBrbBpGY/8hQs=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
-github.com/alifiroozi80/duckdb v0.0.0-20241130073830-c46ebeedbea9 h1:MwWFFSA6nrimaEGtNhjEvRJNhF763h//0HD/iKCHIEg=
-github.com/alifiroozi80/duckdb v0.0.0-20241130073830-c46ebeedbea9/go.mod h1:fdZNpDXRbeNkjI6w6+RMHED2qNJP/V7x/RNbGG0p7W8=
+github.com/alifiroozi80/duckdb v1.0.0 h1:VYpItAECu8zNCZF9fXAW4JkHkVntNMS9p4JcHFY9YAQ=
+github.com/alifiroozi80/duckdb v1.0.0/go.mod h1:fdZNpDXRbeNkjI6w6+RMHED2qNJP/V7x/RNbGG0p7W8=
 github.com/apache/arrow/go/v14 v14.0.2 h1:N8OkaJEOfI3mEZt07BIkvo4sC6XDbL+48MBPWO5IONw=
 github.com/apache/arrow/go/v14 v14.0.2/go.mod h1:u3fgh3EdgN/YQ8cVQRguVW3R+seMybFg8QBQ5LU+eBY=
 github.com/apache/arrow/go/v17 v17.0.0 h1:RRR2bdqKcdbss9Gxy2NS/hK8i4LDMh23L6BbkN5+F54=

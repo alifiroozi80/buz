@@ -45,7 +45,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	cloud.google.com/go/iam v1.1.6 // indirect
 	github.com/ClickHouse/clickhouse-go v1.5.4 // indirect
-	github.com/alifiroozi80/duckdb v0.0.0-20241130073830-c46ebeedbea9 // indirect
+	github.com/alifiroozi80/duckdb v1.0.0 // indirect
 	github.com/apache/arrow/go/v14 v14.0.2 // indirect
 	github.com/apache/arrow/go/v17 v17.0.0 // indirect
 	github.com/aws/aws-lambda-go v1.34.1 // indirect
